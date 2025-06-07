@@ -3,6 +3,7 @@ title: "Orientierungslaufkarten"
 date: 2025-06-07
 draft: false
 layout: "maps"
+image: "img/karten-banner.webp"
 ---
 
 # Orientierungslaufkarten im Allgäu

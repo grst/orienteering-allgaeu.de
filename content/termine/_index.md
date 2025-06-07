@@ -3,6 +3,7 @@ title: "Termine 2025"
 date: 2025-06-07
 draft: false
 layout: "events"
+image: "img/termine-banner.webp"
 ---
 
 # Veranstaltungskalender 2025

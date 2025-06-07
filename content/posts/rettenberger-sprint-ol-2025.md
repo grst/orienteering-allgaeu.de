@@ -4,6 +4,7 @@ draft = false
 title = 'Rettenberger Sprint OL 2025 - Anmeldung geöffnet!'
 tags = ["sprint", "rettenberg", "wettkampf", "anmeldung"]
 categories = ["news"]
+image = 'img/rettenberg-sprint-banner.webp'
 +++
 
 # Rettenberger Sprint OL 2025

@@ -2,6 +2,7 @@
 date = '2025-06-07T21:13:47+02:00'
 draft = false
 title = 'Über uns'
+image = 'img/about-banner.webp'
 +++
 
 # Willkommen bei Orienteering Allgäu

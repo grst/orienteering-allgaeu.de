@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orienteering Allgäu</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Orienteering Allgäu</description>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
-    <language>de-de</language>
-    <lastBuildDate>Sat, 07 Jun 2025 20:16:27 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Erster Beitrag</title>
-      <link>http://localhost:1313/news/erster-beitrag/</link>
-      <pubDate>Sat, 07 Jun 2025 20:16:27 +0200</pubDate>
-      <guid>http://localhost:1313/news/erster-beitrag/</guid>
-      <description>&lt;p&gt;Summary.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>http://localhost:1313/impressum/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/impressum/</guid>
-      <description>&lt;h2 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h2&gt;&#xA;&lt;p&gt;Gregor Sturm&lt;br&gt;&#xA;Alte Dorfstr. 9&lt;br&gt;&#xA;87509 Immenstadt&lt;/p&gt;&#xA;&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;&#xA;&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:info@orienteering-allgaeu.de&#34;&gt;info@orienteering-allgaeu.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;verantwortlich-für-den-inhalt-nach--55-abs-2-rstv&#34;&gt;Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV&lt;/h2&gt;&#xA;&lt;p&gt;Gregor Sturm&lt;br&gt;&#xA;Alte Dorfstr. 9&lt;br&gt;&#xA;87509 Immenstadt&lt;/p&gt;</description>
-    </item>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

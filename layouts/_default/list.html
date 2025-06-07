@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <div class="container py-4">
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+        {{ with .Params.images }}
+          <img src="{{ index . 0 | absURL }}" class="img-fluid mb-3" alt="Banner {{ $.Title }}">
+        {{ end }}
+        {{ .Content }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        {{ range .Pages.ByDate.Reverse }}
+          <div class="card mb-3">
+            <div class="card-body">
+              <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+              <p class="card-text"><small class="text-muted">{{ .Date.Format "02. January 2006" }}</small></p>
+              {{ with .Params.images }}
+                 <img src="{{ index . 0 | absURL }}" class="img-fluid mb-2" alt="{{ $.Title }}">
+              {{ end }}
+              <p class="card-text">{{ .Summary }}</p>
+              <a href="{{ .RelPermalink }}" class="btn btn-primary">Weiterlesen</a>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

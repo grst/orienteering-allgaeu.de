@@ -1,0 +1,17 @@
+- name: "Kemptener Wald Nord"
+  location: "Kempten"
+  scale: "1:10000"
+  contour_interval: "5m"
+  cartographer: "Max Mustermann"
+  year: 2023
+  preview_image: "/images/maps/kemptener_wald_nord_preview.jpg"
+  description: "Detaillierte OL-Karte des nördlichen Kemptener Waldes."
+
+- name: "Illerstadion"
+  location: "Immenstadt"
+  scale: "1:4000"
+  contour_interval: "2m"
+  cartographer: "Erika Mustermann"
+  year: 2024
+  preview_image: "/images/maps/illerstadion_preview.jpg"
+  description: "Sprint-OL-Karte rund um das Illerstadion."

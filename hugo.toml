@@ -1,0 +1,38 @@
+baseURL = "https://orienteering-allgaeu.de/"
+languageCode = "de-de"
+title = "Orienteering Allgäu"
+theme = "bootstrap"
+mainSections = ["news"] # Sets the News section as the landing page
+
+[params]
+  description = "Orientierungslauf im Allgäu"
+  [params.article]
+    show_featured_image = true # Enable featured images for posts
+
+[menu]
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/news/"
+    weight = 10
+  [[menu.main]]
+    identifier = "events"
+    name = "Termine"
+    url = "/events/"
+    weight = 20
+  [[menu.main]]
+    identifier = "maps"
+    name = "Karten"
+    url = "/maps/"
+    weight = 30
+  [[menu.main]]
+    identifier = "wasistol"
+    name = "Was ist OL?"
+    url = "https://o-sport.de/ol/informationen/was-ist-ol/"
+    weight = 40
+
+  [[menu.footer]]
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 10

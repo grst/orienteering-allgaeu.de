@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Orienteering Allgäu</title>
+    <link>http://localhost:1313/events/</link>
+    <description>Recent content in Events on Orienteering Allgäu</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <copyright>
+</copyright>
+    <lastBuildDate>Sat, 07 Jun 2025 20:16:28 +0200</lastBuildDate><atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+

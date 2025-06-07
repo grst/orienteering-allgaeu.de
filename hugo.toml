@@ -18,7 +18,7 @@ slogan = "Orientierung ist alles"
 sidebar_about_description = "Orientierungslauf im Allgäu"
 sidebar_avatar = "img/avatar.jpg"
 
-featured_tags = true
+featured_tags = false
 featured_condition_size = 1
 
 # Social links

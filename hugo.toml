@@ -31,8 +31,11 @@ email = "info@orienteering-allgaeu.de"
 title = "TERMINE"
 href = "/termine/"
 [[params.additional_menus]]
-title = "ERGEBNISSE"
-href = "/ergebnisse/"
+title = "KARTEN"
+href = "/karten/"
+[[params.additional_menus]]
+title = "WAS IST OL?"
+href = "https://o-sport.de/ol/informationen/was-ist-ol/"
 [[params.additional_menus]]
 title = "ÜBER UNS"
 href = "/about/"

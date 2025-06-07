@@ -46,5 +46,14 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-07T21:13:47+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/impressum/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/karten/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/termine/</loc>
+    <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

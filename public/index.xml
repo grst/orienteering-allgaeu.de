@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/willkommen/</guid>
       <description>&lt;h1 id=&#34;herzlich-willkommen&#34;&gt;Herzlich willkommen!&lt;/h1&gt;&#xA;&lt;p&gt;Willkommen auf der neuen Website von Orienteering Allgäu!&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-erwartet-dich-hier&#34;&gt;Was erwartet dich hier?&lt;/h2&gt;&#xA;&lt;p&gt;Auf dieser Seite findest du:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aktuelle Termine&lt;/strong&gt; für Orientierungsläufe in der Region&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ergebnisse&lt;/strong&gt; vergangener Wettkämpfe&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Informationen&lt;/strong&gt; rund um den Orientierungssport&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trainingsmöglichkeiten&lt;/strong&gt; für Einsteiger und Fortgeschrittene&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;für-einsteiger&#34;&gt;Für Einsteiger&lt;/h2&gt;&#xA;&lt;p&gt;Du bist neu beim Orientierungslauf? Kein Problem! Wir bieten regelmäßig Schnupperkurse an, bei denen du die Grundlagen des Sports erlernen kannst.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nächste-termine&#34;&gt;Nächste Termine&lt;/h2&gt;&#xA;&lt;p&gt;Halte Ausschau nach unseren kommenden Veranstaltungen. Alle Termine findest du in der Rubrik &amp;ldquo;Termine&amp;rdquo;.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Gregor Sturm&lt;br&gt;&#xA;Alte Dorfstr. 9&lt;br&gt;&#xA;87509 Immenstadt&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kontakt:&lt;/strong&gt;&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:info@orienteering-allgaeu.de&#34;&gt;info@orienteering-allgaeu.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;redaktionell-verantwortlich&#34;&gt;Redaktionell verantwortlich&lt;/h2&gt;&#xA;&lt;p&gt;Gregor Sturm&lt;br&gt;&#xA;Alte Dorfstr. 9&lt;br&gt;&#xA;87509 Immenstadt&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

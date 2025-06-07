@@ -5,34 +5,34 @@ theme = "hugo-theme-cleanwhite"
 preserveTaxonomyNames = true
 
 [pagination]
-  pagerSize = 5
+pagerSize = 5
 
 [params]
-  header_image = "img/home-bg.jpg"
-  SEOTitle = "Orienteering Allgäu | Orientierungslauf im Allgäu"
-  description = "Orientierungslauf im Allgäu - Termine, Ergebnisse und Informationen rund um den Orientierungssport in der Region"
-  keyword = "Orientierungslauf, Allgäu, OL, Orienteering, Sport, Laufen, Navigation"
-  slogan = "Orientierung ist alles"
-  
-  # Sidebar settings
-  sidebar_about_description = "Orientierungslauf im Allgäu"
-  sidebar_avatar = "img/avatar.jpg"
-  
-  featured_tags = true 
-  featured_condition_size = 1
-  
-  # Social links
-  [params.social]
-  rss = true 
-  email = "info@orienteering-allgaeu.de"
-  
-  # Additional menu items
-  [[params.additional_menus]]
-  title = "TERMINE"
-  href = "/termine/"
-  [[params.additional_menus]]
-  title = "ERGEBNISSE"
-  href = "/ergebnisse/"
-  [[params.additional_menus]]
-  title = "ÜBER UNS"
-  href = "/about/"
+header_image = "img/banner1.png"
+SEOTitle = "Orienteering Allgäu | Orientierungslauf im Allgäu"
+description = "Orientierungslauf im Allgäu - Termine, Ergebnisse und Informationen rund um den Orientierungssport in der Region"
+keyword = "Orientierungslauf, Allgäu, OL, Orienteering, Sport, Laufen, Navigation"
+slogan = "Orientierung ist alles"
+
+# Sidebar settings
+sidebar_about_description = "Orientierungslauf im Allgäu"
+sidebar_avatar = "img/avatar.jpg"
+
+featured_tags = true
+featured_condition_size = 1
+
+# Social links
+[params.social]
+rss = true
+email = "info@orienteering-allgaeu.de"
+
+# Additional menu items
+[[params.additional_menus]]
+title = "TERMINE"
+href = "/termine/"
+[[params.additional_menus]]
+title = "ERGEBNISSE"
+href = "/ergebnisse/"
+[[params.additional_menus]]
+title = "ÜBER UNS"
+href = "/about/"

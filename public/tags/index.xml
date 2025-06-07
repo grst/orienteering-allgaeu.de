@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Orienteering Allgäu</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 07 Jun 2025 21:13:54 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 21:18:19 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anmeldung</title>
+      <link>http://localhost:1313/tags/anmeldung/</link>
+      <pubDate>Sat, 07 Jun 2025 21:18:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/anmeldung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rettenberg</title>
+      <link>http://localhost:1313/tags/rettenberg/</link>
+      <pubDate>Sat, 07 Jun 2025 21:18:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/rettenberg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sprint</title>
+      <link>http://localhost:1313/tags/sprint/</link>
+      <pubDate>Sat, 07 Jun 2025 21:18:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/sprint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wettkampf</title>
+      <link>http://localhost:1313/tags/wettkampf/</link>
+      <pubDate>Sat, 07 Jun 2025 21:18:19 +0200</pubDate>
+      <guid>http://localhost:1313/tags/wettkampf/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Allgäu</title>
       <link>http://localhost:1313/tags/allg%C3%A4u/</link>

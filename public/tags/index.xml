@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Orienteering Allgäu</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Orienteering Allgäu</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 07 Jun 2025 21:13:54 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allgäu</title>
+      <link>http://localhost:1313/tags/allg%C3%A4u/</link>
+      <pubDate>Sat, 07 Jun 2025 21:13:54 +0200</pubDate>
+      <guid>http://localhost:1313/tags/allg%C3%A4u/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orientierungslauf</title>
+      <link>http://localhost:1313/tags/orientierungslauf/</link>
+      <pubDate>Sat, 07 Jun 2025 21:13:54 +0200</pubDate>
+      <guid>http://localhost:1313/tags/orientierungslauf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Willkommen</title>
+      <link>http://localhost:1313/tags/willkommen/</link>
+      <pubDate>Sat, 07 Jun 2025 21:13:54 +0200</pubDate>
+      <guid>http://localhost:1313/tags/willkommen/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

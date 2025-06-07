@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/allg%C3%A4u/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/news/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/orientierungslauf/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/willkommen/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/willkommen/</loc>
+    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-06-07T21:13:47+02:00</lastmod>
+  </url>
+</urlset>

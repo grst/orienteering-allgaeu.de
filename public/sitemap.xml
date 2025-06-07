@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://orienteering-allgaeu.de/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anmeldung/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/anmeldung/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://orienteering-allgaeu.de/categories/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
+    <loc>https://orienteering-allgaeu.de/categories/news/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://orienteering-allgaeu.de/posts/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rettenberg/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/rettenberg/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rettenberger-sprint-ol-2025/</loc>
+    <loc>https://orienteering-allgaeu.de/posts/rettenberger-sprint-ol-2025/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sprint/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/sprint/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wettkampf/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/wettkampf/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/allg%C3%A4u/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/allg%C3%A4u/</loc>
     <lastmod>2025-06-07T21:13:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/orientierungslauf/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/orientierungslauf/</loc>
     <lastmod>2025-06-07T21:13:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/willkommen/</loc>
+    <loc>https://orienteering-allgaeu.de/tags/willkommen/</loc>
     <lastmod>2025-06-07T21:13:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/willkommen/</loc>
+    <loc>https://orienteering-allgaeu.de/posts/willkommen/</loc>
     <lastmod>2025-06-07T21:13:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://orienteering-allgaeu.de/about/</loc>
     <lastmod>2025-06-07T21:13:47+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>https://orienteering-allgaeu.de/impressum/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/karten/</loc>
+    <loc>https://orienteering-allgaeu.de/karten/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/termine/</loc>
+    <loc>https://orienteering-allgaeu.de/termine/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

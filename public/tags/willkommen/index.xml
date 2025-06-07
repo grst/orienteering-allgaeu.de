@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willkommen on Orienteering Allgäu</title>
-    <link>http://localhost:1313/tags/willkommen/</link>
+    <link>https://orienteering-allgaeu.de/tags/willkommen/</link>
     <description>Recent content in Willkommen on Orienteering Allgäu</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 07 Jun 2025 21:13:54 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/willkommen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://orienteering-allgaeu.de/tags/willkommen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Willkommen bei Orienteering Allgäu</title>
-      <link>http://localhost:1313/posts/willkommen/</link>
+      <link>https://orienteering-allgaeu.de/posts/willkommen/</link>
       <pubDate>Sat, 07 Jun 2025 21:13:54 +0200</pubDate>
-      <guid>http://localhost:1313/posts/willkommen/</guid>
+      <guid>https://orienteering-allgaeu.de/posts/willkommen/</guid>
       <description>&lt;h1 id=&#34;herzlich-willkommen&#34;&gt;Herzlich willkommen!&lt;/h1&gt;&#xA;&lt;p&gt;Willkommen auf der neuen Website von Orienteering Allgäu!&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-erwartet-dich-hier&#34;&gt;Was erwartet dich hier?&lt;/h2&gt;&#xA;&lt;p&gt;Auf dieser Seite findest du:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Aktuelle Termine&lt;/strong&gt; für Orientierungsläufe in der Region&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ergebnisse&lt;/strong&gt; vergangener Wettkämpfe&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Informationen&lt;/strong&gt; rund um den Orientierungssport&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trainingsmöglichkeiten&lt;/strong&gt; für Einsteiger und Fortgeschrittene&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;für-einsteiger&#34;&gt;Für Einsteiger&lt;/h2&gt;&#xA;&lt;p&gt;Du bist neu beim Orientierungslauf? Kein Problem! Wir bieten regelmäßig Schnupperkurse an, bei denen du die Grundlagen des Sports erlernen kannst.&lt;/p&gt;&#xA;&lt;h2 id=&#34;nächste-termine&#34;&gt;Nächste Termine&lt;/h2&gt;&#xA;&lt;p&gt;Halte Ausschau nach unseren kommenden Veranstaltungen. Alle Termine findest du in der Rubrik &amp;ldquo;Termine&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>

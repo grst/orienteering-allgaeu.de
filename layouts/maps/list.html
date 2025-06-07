@@ -10,22 +10,22 @@
       </div>
     </div>
     <div class="row row-cols-1 row-cols-md-2 g-4">
-      {{ range .Site.Data.maps }}
+      {{ range $map_item := .Site.Data.maps }}
         <div class="col">
           <div class="card h-100">
-            {{ with .preview_image }}
-              <img src="{{ . | absURL }}" class="card-img-top" alt="Vorschau {{ .name }}">
+            {{ with $map_item.preview_image }}
+              <img src="{{ . | absURL }}" class="card-img-top" alt="Vorschau {{ $map_item.name }}">
             {{ end }}
             <div class="card-body">
-              <h5 class="card-title">{{ .name }}</h5>
-              <p class="card-text">{{ .description }}</p>
+              <h5 class="card-title">{{ $map_item.name }}</h5>
+              <p class="card-text">{{ $map_item.description }}</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">Ort: {{ .location }}</li>
-              <li class="list-group-item">Maßstab: {{ .scale }}</li>
-              <li class="list-group-item">Äquidistanz: {{ .contour_interval }}</li>
-              <li class="list-group-item">Kartograph: {{ .cartographer }}</li>
-              <li class="list-group-item">Stand: {{ .year }}</li>
+              <li class="list-group-item">Ort: {{ $map_item.location }}</li>
+              <li class="list-group-item">Maßstab: {{ $map_item.scale }}</li>
+              <li class="list-group-item">Äquidistanz: {{ $map_item.contour_interval }}</li>
+              <li class="list-group-item">Kartograph: {{ $map_item.cartographer }}</li>
+              <li class="list-group-item">Stand: {{ $map_item.year }}</li>
             </ul>
           </div>
         </div>

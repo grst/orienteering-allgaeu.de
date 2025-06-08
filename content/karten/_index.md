@@ -9,10 +9,10 @@ maps:
     description: "Rettenberg Ortsgebiet und Hasengarten"
     scale: "1:4.000"
     contour_interval: "5m"
-    map_type: "Sprint-/Kurzdistanzkarte"
-    creator: "Thomas Müller, OL Allgäu e.V."
-    survey_date: "Mai 2024"
-    terrain: "Stadtpark mit Wegen, Gebäuden und Vegetation"
+    map_type: "Sprintkarte"
+    creator: "Gregor und Anna Sturm"
+    survey_date: "Sommer 2024"
+    terrain: "Ortsgebiet und kleines Waldstück"
 ---
 
 

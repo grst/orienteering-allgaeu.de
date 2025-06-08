@@ -8,7 +8,7 @@ image = 'img/about-banner.webp'
 # Willkommen bei Orienteering Allgäu
 
 Orienteering Allgäu ist eine Initiative mit dem Ziel Orientierungssport im Allgäu zu etablieren. Unser ultimatives
-Ziel ist regelmäßige Traings und Wettkämpfe im Allgäu zu organisieren. Wenn Du mitmachen willst, melde dich bei uns!
+Ziel ist regelmäßige Trainings und Wettkämpfe im Allgäu zu organisieren. Wenn Du mitmachen willst, melde dich bei uns!
 
 ## Was ist Orientierungslauf?
 

@@ -8,7 +8,7 @@ preserveTaxonomyNames = true
 pagerSize = 5
 
 [params]
-header_image = "img/banner1.webp"
+header_image = "img/default-banner.webp"
 SEOTitle = "Orienteering Allgäu | Orientierungslauf im Allgäu"
 description = "Orientierungslauf im Allgäu - Termine, Ergebnisse und Informationen rund um den Orientierungssport in der Region"
 keyword = "Orientierungslauf, Allgäu, OL, Orienteering, Sport, Laufen"
@@ -19,10 +19,9 @@ custom_css = ["css/custom.css"]
 
 # Section-specific banner images
 [params.section_images]
-posts = "img/posts-banner.webp"
-termine = "img/termine-banner.webp"
+# termine = "img/termine-banner.webp"
 karten = "img/karten-banner.png"
-about = "img/about-banner.webp"
+# about = "img/about-banner.webp"
 
 # Sidebar settings
 # sidebar_about_description = "Orientierungslauf im Allgäu"

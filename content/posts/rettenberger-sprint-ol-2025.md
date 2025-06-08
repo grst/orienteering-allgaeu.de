@@ -5,6 +5,7 @@ title = 'Rettenberger Sprint OL 2025'
 tags = ["orientierungslauf", "sprint"]
 categories = ["news"]
 image = 'img/rettenberg-sprint-banner.webp'
+summary = 'Wir organisieren am 5. Oktober 2025 einen Orientierungslauf für Kinder, Familien und Einsteiger in Rettenberg (Ortsgebiet + Waldwege). Drei Strecken zur Auswahl, keine Vorkenntnisse erforderlich.'
 +++
 
 # Rettenberger Sprint OL 
@@ -36,6 +37,11 @@ Kommt vorbei -  wir freuen uns auf euch!
 | 📅 Termin | Sonntag, 5. Oktober |
 | 🕙 Startzeit | Jederzeit zwischen 10 und 11 Uhr |
 | 📍 Wo | Treffpunkt vor der Grundschule Rettenberg |
+
+
+Der folgender Kartenausschnitt zeigt das Ortsgebiet (links) und den Wald im Hasengarten (rechts): 
+
+![Kartenausschnitt](/img/posts/rettenberger-sprint-ol-1.png)
 
 ## Anmeldung
  * Whatsapp- oder Signal-Nachricht an +491719835284 oder 

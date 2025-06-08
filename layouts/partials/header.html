@@ -61,14 +61,9 @@
                                 {{- end -}}
                             {{- end -}}
                         {{- else -}}
-                            Posted by 
-                            {{- if .Params.author -}}
-                                {{ .Params.author }}
-                            {{- else -}}
-                                {{ .Site.Title }}
-                            {{- end }} 
-                            on 
-                            {{ .Date.Format "Monday, January 2, 2006" }}
+                            {{ $months := slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember" }}
+                            {{ $month := index $months (sub .Date.Month 1) }}
+                            {{ .Date.Day }}. {{ $month }} {{ .Date.Year }}
                         {{- end -}}    
                     </span>
                     {{- end -}}

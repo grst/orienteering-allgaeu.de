@@ -46,3 +46,30 @@
         padding-top: 130px !important; /* Increased from default 95px to account for navbar height */
     }
 }
+
+/* Custom styling for post metadata in post list */
+.post-preview > .post-meta {
+    font-family: -apple-system, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif !important;
+    font-style: normal !important;
+    font-size: 12px !important;
+    color: gray !important;
+    margin-top: 0 !important;
+}
+
+.post-preview > .post-meta > a {
+    font-family: -apple-system, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", STHeiti, "Microsoft YaHei", "Microsoft JhengHei", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "WenQuanYi Micro Hei", SimSun, sans-serif !important;
+    font-style: normal !important;
+    font-size: 12px !important;
+    color: gray !important;
+}
+
+/* Responsive font sizes for larger screens */
+@media only screen and (min-width: 768px) {
+    .post-preview .post-meta {
+        font-size: 13px !important;
+    }
+    
+    .post-preview > .post-meta > a {
+        font-size: 13px !important;
+    }
+}

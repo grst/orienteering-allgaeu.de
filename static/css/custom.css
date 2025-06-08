@@ -17,7 +17,7 @@
 
 /* Navbar with semi-transparent white background for better readability */
 .navbar-custom {
-    background-color: rgba(255, 255, 255, 0.85) !important;
+    background-color: rgba(255, 255, 255, 0.65) !important; /* Reduced opacity from 0.85 to 0.65 */
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
 }
@@ -33,4 +33,16 @@
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
     color: #0085a1 !important;
+}
+
+/* Adjust banner heading vertical centering to account for navbar */
+.intro-header .site-heading {
+    padding-top: 180px !important; /* Increased from default 150px to account for navbar height */
+}
+
+/* For smaller screens, adjust accordingly */
+@media only screen and (max-width: 767px) {
+    .intro-header .site-heading {
+        padding-top: 130px !important; /* Increased from default 95px to account for navbar height */
+    }
 }

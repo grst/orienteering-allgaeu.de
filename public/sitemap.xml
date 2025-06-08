@@ -5,19 +5,16 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anmeldung/</loc>
-    <lastmod>2025-06-07T21:18:19+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/news/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/tags/orientierungslauf/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rettenberg/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/rettenberger-sprint-ol-2025/</loc>
@@ -28,21 +25,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-07T21:18:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wettkampf/</loc>
-    <lastmod>2025-06-07T21:18:19+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/allg%C3%A4u/</loc>
-    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/orientierungslauf/</loc>
-    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/willkommen/</loc>
-    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/willkommen/</loc>
-    <lastmod>2025-06-07T21:13:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-07T21:13:47+02:00</lastmod>
@@ -55,5 +37,15 @@
   </url><url>
     <loc>http://localhost:1313/termine/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/allg%C3%A4u/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/anmeldung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/rettenberg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/wettkampf/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/willkommen/</loc>
   </url>
 </urlset>

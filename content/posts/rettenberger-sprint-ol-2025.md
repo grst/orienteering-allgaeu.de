@@ -1,73 +1,51 @@
 +++
 date = '2025-06-07T21:18:19+02:00'
 draft = false
-title = 'Rettenberger Sprint OL 2025 - Anmeldung geöffnet!'
-tags = ["sprint", "rettenberg", "wettkampf", "anmeldung"]
+title = 'Rettenberger Sprint OL 2025'
+tags = ["orientierungslauf", "sprint"]
 categories = ["news"]
 image = 'img/rettenberg-sprint-banner.webp'
 +++
 
-# Rettenberger Sprint OL 2025
+# Rettenberger Sprint OL 
+*Orientierunglauf für Kinder, Familien und Einsteiger*
 
-## 📅 Termin: 15. August 2025, 10:00 Uhr
+Lust auf ein kleines Abenteuer in und um Rettenberg?
+Dann komm zu unserem Orientierungslauf! Ausgestattet mit Karte und Kompass geht es darum, mehrere Kontrollpunkte im Gelände der Reihe nach zu finden. Gestartet wird einzeln oder in beliebigen Teams. Kinder starten zusammen mit einem Erwachsenen oder mit der ganzen Familie.
+Das Tempo ist jedem selbst überlassen. Vom sportlichen Lauf bis zum gemütlichen Spaziergang ist alles möglich, ganz nach Lust und Laune. 
 
-Wir freuen uns, den **Rettenberger Sprint OL 2025** ankündigen zu können! Nach dem großen Erfolg der vergangenen Jahre findet auch 2025 wieder unser beliebter Orientierungslauf-Sprint in Rettenberg statt.
+Die Veranstaltung eignet sich besonders für Kinder, Familien und alle, die Orientierungslauf einfach mal ausprobieren möchten. Vorkenntnisse sind nicht erforderlich!
 
-## 🏃‍♂️ Wettkampfinfos
+Drei Strecken stehen zur Auswahl:
+ * Kurz (ca. 1 km): nur Ortsgebiet, kinderwagengeeignet
+ * Mittel (ca. 2 km): Ortsgebiet und Waldwege
+ * Lang (ca. 4 km): Ortsgebiet und Waldwege
 
-- **Veranstaltungsort**: Rettenberg Ortszentrum
-- **Start**: Massenstart um 10:00 Uhr
-- **Kategorien**: 
-  - Jugend U14, U16, U18
-  - Damen/Herren Leistungsklassen
-  - Hobby-Läufer (alle Altersklassen)
-  - Familien-Staffel
+Nach dem Lauf findet eine kurze Siegerehrung statt, auf der es kleine Sachpreise zu gewinnen gibt.  Alle Kinder bis 12 Jahre erhalten ein kleines Teilnahmegeschenk.
 
-## 🗺️ Streckenlängen
+Startgebühren:
+ * Kurze Strecke: 2€
+ * Mittlere und lange Strecke: 4€ ab 16 Jahren / 2€ unter 16 Jahren
 
-- **Sprint Distanz**: 2,5 - 4,5 km je nach Kategorie
-- **Höhenunterschied**: 50 - 150 Höhenmeter
-- **Gelände**: Urbanes Gelände mit Park- und Waldanteilen
-- **Schwierigkeit**: Technisch anspruchsvoll mit schnellen Routenwahlentscheidungen
+Kommt vorbei -  wir freuen uns auf euch!
 
-## 📝 Anmeldung
 
-- **Anmeldeschluss**: 10. August 2025
-- **Anmeldegebühr**: 
-  - Erwachsene: 15 €
-  - Jugendliche (U18): 8 €
-  - Familien-Staffel: 25 €
-- **Anmeldung über**: [Orienteering.de Portal](https://www.o-anmeldung.de) (Beispiel-Link)
+## Wettkampfinfos
+| Information | Details |
+|:---|:---|
+| 📅 Termin | Sonntag, 5. Oktober |
+| 🕙 Startzeit | Jederzeit zwischen 10 und 11 Uhr |
+| 📍 Wo | Treffpunkt vor der Grundschule Rettenberg |
 
-## 🎯 Besonderheiten 2025
+## Anmeldung
+ * Whatsapp- oder Signal-Nachricht an +491719835284 oder 
+ * E-Mail an info@orienteering-allgaeu.de oder
+ * [orienteeringonline.net](https://orienteeringonline.net/CompetitionBasicInfo.aspx?CompetitionID=13862)
 
-- **Neue Kartierung**: Vollständig überarbeitete Karte im Maßstab 1:4.000
-- **Live-Tracking**: GPS-Verfolgung für alle Teilnehmer
-- **Siegerehrung**: Mit regionalen Preisen und Allgäuer Spezialitäten
-- **Rahmenprogramm**: Orientierungslauf-Schnupperkurs für Anfänger
+Anmeldung bitte bis spätestens Montag, 29.09.2025. Nachmeldungen sind in begrenzter Zahl möglich mit 50% höheren Startgebühren.
 
-## 🚗 Anfahrt & Parken
+## Ausrichter
+Ausrichter der Veranstaltung ist der [OLV Landshut e.V](https://olv-landshut.de/).
 
-- **Treffpunkt**: Sportplatz Rettenberg, Sportplatzstraße 12
-- **Parkplätze**: Ausreichend vorhanden (kostenlos)
-- **Öffentliche Verkehrsmittel**: Buslinie 42 bis Haltestelle "Rettenberg Mitte"
 
-## ☕ Verpflegung
 
-- Warme und kalte Getränke am Start/Ziel
-- Brotzeit und Kuchen im Zielbereich
-- Nudelsuppenausschank nach der Siegerehrung
-
-## 📞 Kontakt & Fragen
-
-Bei Fragen zur Veranstaltung wendet euch gerne an:
-
-**Wettkampfleitung**: Maria Huber  
-**E-Mail**: sprint@ol-allgaeu.de  
-**Telefon**: 0831-123456
-
----
-
-*Wir freuen uns auf zahlreiche Teilnehmer und einen spannenden Wettkampf in der wunderschönen Allgäuer Landschaft!*
-
-**Das Organisationsteam des OL Allgäu**

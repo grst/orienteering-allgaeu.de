@@ -8,71 +8,55 @@
                     <h1>{{ .Title }}</h1>
                 </div>
 
-                <!-- Intro text -->
+                <!-- Content before more separator -->
                 <div class="mb-4">
-                    <p class="lead">Hier finden Sie eine Übersicht aller von uns erstellten bzw. uns bekannten Karten in der Region.</p>
+                    {{ .Summary }}
                 </div>
 
-                <!-- Maps Grid -->
+                <!-- Maps Grid from front matter -->
                 <div class="row">
-                    
-                    <!-- Kempten Stadtpark Card -->
+                    {{ range .Params.maps }}
                     <div class="col-md-6 mb-4">
-                        <div class="card h-100">
-                            <img src="/img/karten/kempten-stadtpark-preview.jpg" class="card-img-top" alt="Kempten Stadtpark Karte" style="height: 250px; object-fit: cover;">
-                            <div class="card-body">
-                                <h5 class="card-title">Kempten Stadtpark (2024)</h5>
-                                <p class="card-text">Ideale Einsteigerkarte mit klaren Strukturen und übersichtlichem Gelände.</p>
+                        <div class="card h-100" style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #e9ecef; transition: box-shadow 0.2s ease-in-out;">
+                            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}" style="height: 250px; object-fit: cover;">
+                            <div class="card-body" style="background-color: #fafbfc; padding: 1.5rem;">
+                                <h5 class="card-title" style="margin-bottom: 1rem;">{{ .title }}</h5>
+                                <p class="card-text" style="margin-bottom: 1rem;">{{ .description }}</p>
                                 
-                                <ul class="list-unstyled small">
-                                    <li><strong>Maßstab:</strong> 1:4.000</li>
-                                    <li><strong>Äquidistanz:</strong> 2,5m</li>
-                                    <li><strong>Kartentyp:</strong> Sprint-/Kurzdistanzkarte</li>
-                                    <li><strong>Ersteller:</strong> Thomas Müller, OL Allgäu e.V.</li>
-                                    <li><strong>Aufnahme:</strong> Mai 2024</li>
+                                <ul class="list-unstyled small" style="margin-bottom: 0;">
+                                    <li style="margin-bottom: 0.25rem;"><strong>Maßstab:</strong> {{ .scale }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Äquidistanz:</strong> {{ .contour_interval }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Kartentyp:</strong> {{ .map_type }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Ersteller:</strong> {{ .creator }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Aufnahme:</strong> {{ .survey_date }}</li>
+                                    {{ if .terrain }}<li style="margin-bottom: 0;"><strong>Gelände:</strong> {{ .terrain }}</li>{{ end }}
                                 </ul>
-                                
-                                <p class="card-text"><small class="text-muted">Verwendung: Regelmäßiges Training, Stadtlauf Kempten</small></p>
                             </div>
                         </div>
                     </div>
-
-                    <!-- Rettenberg Dorfzentrum Card -->
-                    <div class="col-md-6 mb-4">
-                        <div class="card h-100">
-                            <img src="/img/karten/rettenberg-dorf-preview.jpg" class="card-img-top" alt="Rettenberg Dorfzentrum Karte" style="height: 250px; object-fit: cover;">
-                            <div class="card-body">
-                                <h5 class="card-title">Rettenberg Dorfzentrum (2024)</h5>
-                                <p class="card-text">Authentisches Allgäuer Dorfambiente mit interessanten Routenwahlmöglichkeiten.</p>
-                                
-                                <ul class="list-unstyled small">
-                                    <li><strong>Maßstab:</strong> 1:4.000</li>
-                                    <li><strong>Äquidistanz:</strong> 2,5m</li>
-                                    <li><strong>Kartentyp:</strong> Sprintkarte</li>
-                                    <li><strong>Ersteller:</strong> Lisa Weber, OL Allgäu e.V.</li>
-                                    <li><strong>Aufnahme:</strong> August 2024</li>
-                                </ul>
-                                
-                                <p class="card-text"><small class="text-muted">Verwendung: Rettenberger Sprint OL 2025</small></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Add more map cards here as needed -->
-                    
+                    {{ end }}
                 </div>
 
-                <!-- Contact section -->
-                <div class="mt-5 p-4 bg-light rounded">
-                    <h4>Weitere Karten</h4>
-                    <p>Haben Sie Fragen zu unseren Karten oder möchten Sie weitere Informationen? Kontaktieren Sie uns gerne!</p>
-                    <a href="mailto:info@orienteering-allgaeu.de" class="btn btn-primary">
-                        <i class="fas fa-envelope"></i> Kontakt aufnehmen
-                    </a>
+                <!-- Content after more separator -->
+                {{ if .Truncated }}
+                {{ $content := .RawContent }}
+                {{ $parts := split $content "<!--more-->" }}
+                {{ if gt (len $parts) 1 }}
+                <div class="mt-5">
+                    {{ index $parts 1 | markdownify }}
                 </div>
+                {{ end }}
+                {{ end }}
 
             </div>
         </div>
     </div>
 </article>
+
+<style>
+.card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+    transform: translateY(-2px);
+}
+</style>
 {{ end }}

@@ -40,7 +40,7 @@ Kommt vorbei -  wir freuen uns auf euch!
 ## Anmeldung
  * Whatsapp- oder Signal-Nachricht an +491719835284 oder 
  * E-Mail an info@orienteering-allgaeu.de oder
- * [orienteeringonline.net](https://orienteeringonline.net/CompetitionBasicInfo.aspx?CompetitionID=13862)
+ * Online, auf [orienteeringonline.net](https://orienteeringonline.net/CompetitionBasicInfo.aspx?CompetitionID=13862)
 
 Anmeldung bitte bis spätestens Montag, 29.09.2025. Nachmeldungen sind in begrenzter Zahl möglich mit 50% höheren Startgebühren.
 

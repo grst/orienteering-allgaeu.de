@@ -14,6 +14,9 @@ description = "Orientierungslauf im Allgäu - Termine, Ergebnisse und Informatio
 keyword = "Orientierungslauf, Allgäu, OL, Orienteering, Sport, Laufen"
 # slogan = "Orientierung ist alles"
 
+# Custom CSS files
+custom_css = ["css/custom.css"]
+
 # Section-specific banner images
 [params.section_images]
 posts = "img/posts-banner.webp"

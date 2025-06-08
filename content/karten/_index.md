@@ -1,42 +1,28 @@
 ---
-title: "Orientierungslaufkarten"
+title: "Orientierungslaufkarten im Allgäu"
 date: 2025-06-07
 draft: false
 layout: "maps"
+maps:
+  - title: "Rettenberg Hasengarten (2024)"
+    image: "/img/karten/hasengarten.png"
+    description: "Rettenberg Ortsgebiet und Hasengarten"
+    scale: "1:4.000"
+    contour_interval: "5m"
+    map_type: "Sprint-/Kurzdistanzkarte"
+    creator: "Thomas Müller, OL Allgäu e.V."
+    survey_date: "Mai 2024"
+    terrain: "Stadtpark mit Wegen, Gebäuden und Vegetation"
 ---
 
-# Orientierungslaufkarten im Allgäu
 
-Hier finden Sie eine Übersicht aller von uns erstellten bzw. uns bekannten Karten in der Region. 
+Hier findet ihr eine Übersicht aller von uns erstellten bzw. uns bekannten Karten in der Region. Unsere Karten werden nach internationalen Standards erstellt und eignen sich sowohl für Wettkämpfe als auch für das Training.
 
-### Kempten Stadtpark (2024)
-![Kempten Stadtpark](/img/karten/kempten-stadtpark-preview.jpg)
+Die Karten zeigen das Gelände in verschiedenen Maßstäben und sind speziell für den Orientierungslaufsport optimiert. Jede Karte enthält detaillierte Informationen über Wege, Vegetation, Gewässer und Geländeformen.
 
-**Details:**
-- **Maßstab:** 1:4.000
-- **Äquidistanz:** 2,5m
-- **Kartentyp:** Sprint-/Kurzdistanzkarte
-- **Ersteller:** Thomas Müller, OL Allgäu e.V.
-- **Aufnahme:** Mai 2024
-- **Gelände:** Stadtpark mit Wegen, Gebäuden und Vegetation
-- **Verwendung:** Regelmäßiges Training, Stadtlauf Kempten
+<!--more-->
 
-**Besonderheiten:** Ideale Einsteigerkarte mit klaren Strukturen und übersichtlichem Gelände.
+## Historische Karten
 
----
-
-### Rettenberg Dorfzentrum (2024)
-![Rettenberg Dorfzentrum](/img/karten/rettenberg-dorf-preview.jpg)
-
-**Details:**
-- **Maßstab:** 1:4.000
-- **Äquidistanz:** 2,5m
-- **Kartentyp:** Sprintkarte
-- **Ersteller:** Lisa Weber, OL Allgäu e.V.
-- **Aufnahme:** August 2024
-- **Gelände:** Dorfkern mit traditioneller Allgäuer Architektur
-- **Verwendung:** Rettenberger Sprint OL 2025
-
-**Besonderheiten:** Authentisches Allgäuer Dorfambiente mit interessanten Routenwahlmöglichkeiten.
-
----
+Es gibt diverse Allgäuer OL Karten aus den 1970er Jahren. Mehr dazu im [Kartenarchiv](https://omaps.me/clubs/ag-osport/maps#lng=10.2899&lat=47.5079&zoom=9)
+von Orienteering Germany!

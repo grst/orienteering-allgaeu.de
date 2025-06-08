@@ -3,6 +3,23 @@
     header.intro-header {
         background-image: url('{{- partial "banner-image.html" . -}}')
     }
+    
+    /* Text shadow/halo effect for main site banner title only */
+    .site-heading h1 {
+        text-shadow: 
+            0 0 10px rgba(0, 0, 0, 0.8),
+            0 0 20px rgba(0, 0, 0, 0.6),
+            2px 2px 4px rgba(0, 0, 0, 0.9);
+        color: #ffffff;
+    }
+    
+    .site-heading .subheading {
+        text-shadow: 
+            0 0 8px rgba(0, 0, 0, 0.7),
+            0 0 15px rgba(0, 0, 0, 0.5),
+            1px 1px 3px rgba(0, 0, 0, 0.8);
+        color: #ffffff;
+    }
 </style>
 
 {{- if eq .Params.headerstyle "text" -}}

@@ -13,13 +13,6 @@ on:
       - synchronize
       - closed
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-  pull-requests: write
-
 concurrency: preview-${{ github.ref }}
 
 jobs:
@@ -53,7 +46,7 @@ jobs:
         with:
           source-dir: ./public 
 
-      - name: Deploy docs
+      - name: Deploy site 
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
         with:

@@ -45,6 +45,7 @@ jobs:
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: ./public 
+          pages-base-url: orienteering-allgaeu.de
 
       - name: Deploy site 
         if: github.event_name != 'pull_request'

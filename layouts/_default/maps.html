@@ -1,0 +1,62 @@
+{{ define "main" }}
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
+                
+                <div class="post-heading">
+                    <h1>{{ .Title }}</h1>
+                </div>
+
+                <!-- Content before more separator -->
+                <div class="mb-4">
+                    {{ .Summary }}
+                </div>
+
+                <!-- Maps Grid from front matter -->
+                <div class="row">
+                    {{ range .Params.maps }}
+                    <div class="col-md-6 mb-4">
+                        <div class="card h-100" style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #e9ecef; transition: box-shadow 0.2s ease-in-out;">
+                            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}" style="height: 250px; object-fit: cover;">
+                            <div class="card-body" style="background-color: #fafbfc; padding: 1.5rem;">
+                                <h5 class="card-title" style="margin-bottom: 1rem;">{{ .title }}</h5>
+                                <p class="card-text" style="margin-bottom: 1rem;">{{ .description }}</p>
+                                
+                                <ul class="list-unstyled small" style="margin-bottom: 0;">
+                                    <li style="margin-bottom: 0.25rem;"><strong>Maßstab:</strong> {{ .scale }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Äquidistanz:</strong> {{ .contour_interval }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Kartentyp:</strong> {{ .map_type }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Ersteller:</strong> {{ .creator }}</li>
+                                    <li style="margin-bottom: 0.25rem;"><strong>Aufnahme:</strong> {{ .survey_date }}</li>
+                                    {{ if .terrain }}<li style="margin-bottom: 0;"><strong>Gelände:</strong> {{ .terrain }}</li>{{ end }}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+
+                <!-- Content after more separator -->
+                {{ if .Truncated }}
+                {{ $content := .RawContent }}
+                {{ $parts := split $content "<!--more-->" }}
+                {{ if gt (len $parts) 1 }}
+                <div class="mt-5">
+                    {{ index $parts 1 | markdownify }}
+                </div>
+                {{ end }}
+                {{ end }}
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<style>
+.card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+    transform: translateY(-2px);
+}
+</style>
+{{ end }}

@@ -1,0 +1,32 @@
+{{- /* Banner Image Selection Logic */ -}}
+{{- $bannerImage := "" -}}
+
+{{- /* 1. Check if page has specific image in front matter */ -}}
+{{- if .Params.image -}}
+    {{- $bannerImage = .Params.image -}}
+{{- /* 2. Check if it's a section and has section-specific image */ -}}
+{{- else if and .IsSection .Site.Params.section_images -}}
+    {{- $sectionName := .Section -}}
+    {{- if index .Site.Params.section_images $sectionName -}}
+        {{- $bannerImage = index .Site.Params.section_images $sectionName -}}
+    {{- end -}}
+{{- /* 3. Check if it's a post and use posts banner */ -}}
+{{- else if eq .Type "posts" -}}
+    {{- if .Site.Params.section_images.posts -}}
+        {{- $bannerImage = .Site.Params.section_images.posts -}}
+    {{- end -}}
+{{- /* 4. Check if it's in a specific section */ -}}
+{{- else if .Section -}}
+    {{- $sectionName := .Section -}}
+    {{- if index .Site.Params.section_images $sectionName -}}
+        {{- $bannerImage = index .Site.Params.section_images $sectionName -}}
+    {{- end -}}
+{{- end -}}
+
+{{- /* 5. Fallback to default header image */ -}}
+{{- if not $bannerImage -}}
+    {{- $bannerImage = .Site.Params.header_image -}}
+{{- end -}}
+
+{{- /* Output the banner image URL */ -}}
+{{- $bannerImage | relURL -}}

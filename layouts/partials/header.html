@@ -1,0 +1,84 @@
+<!-- Universal Header with Smart Banner Image Selection -->
+<style type="text/css">
+    header.intro-header {
+        background-image: url('{{- partial "banner-image.html" . -}}')
+    }
+    
+    /* Text shadow/halo effect for main site banner title only */
+    .site-heading h1 {
+        text-shadow: 
+            0 0 10px rgba(0, 0, 0, 0.8),
+            0 0 20px rgba(0, 0, 0, 0.6),
+            2px 2px 4px rgba(0, 0, 0, 0.9);
+        color: #ffffff;
+    }
+    
+    .site-heading .subheading {
+        text-shadow: 
+            0 0 8px rgba(0, 0, 0, 0.7),
+            0 0 15px rgba(0, 0, 0, 0.5),
+            1px 1px 3px rgba(0, 0, 0, 0.8);
+        color: #ffffff;
+    }
+</style>
+
+{{- if eq .Params.headerstyle "text" -}}
+<header class="intro-header style-text" >
+{{- else -}}
+<header class="intro-header" >
+{{- end -}}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                {{- if .IsHome -}}
+                <div class="site-heading">
+                    <h1>{{ .Site.Title }}</h1>
+                    <span class="subheading">{{ .Site.Params.slogan }}</span>
+                </div>
+                {{- else if .IsPage -}}
+                <div class="post-heading">
+                    {{- if .Params.tags -}}
+                    <div class="tags">
+                        {{- range .Params.tags -}}
+                        <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" title="{{ . }}">
+                            {{ . }}
+                        </a>
+                        {{- end -}}
+                    </div>
+                    {{- end -}}
+                    <h1>{{ .Title }}</h1>
+                    {{- if .Params.subtitle -}}
+                    <h2 class="subheading">{{ .Params.subtitle }}</h2>
+                    {{- end -}}
+                    {{- if not .Params.hide_meta -}}
+                    <span class="meta">
+                        {{- if .Params.metadata -}}
+                            {{- range $index, $element := .Params.metadata -}}
+                                {{- if .link -}}
+                                    <a href="{{ .link }}">{{ .text }}</a>
+                                {{- else -}}
+                                    {{ .text }}
+                                {{- end -}}
+                            {{- end -}}
+                        {{- else -}}
+                            {{ $months := slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember" }}
+                            {{ $month := index $months (sub .Date.Month 1) }}
+                            {{ .Date.Day }}. {{ $month }} {{ .Date.Year }}
+                        {{- end -}}    
+                    </span>
+                    {{- end -}}
+                </div>
+                {{- else -}}
+                <div class="site-heading">
+                    <h1>{{- if .Title -}}{{ .Title }}{{- else -}}{{ .Site.Title }}{{- end -}}</h1>
+                    {{- if .Params.subtitle -}}
+                    <span class="subheading">{{ .Params.subtitle }}</span>
+                    {{- else -}}
+                    <span class="subheading">{{ .Site.Params.slogan }}</span>
+                    {{- end -}}
+                </div>
+                {{- end -}}
+            </div>
+        </div>
+    </div>
+</header>

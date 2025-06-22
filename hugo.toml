@@ -46,5 +46,8 @@ href = "/karten/"
 title = "WAS IST OL?"
 href = "https://o-sport.de/ol/informationen/was-ist-ol/"
 [[params.additional_menus]]
+title = "MAPANT"
+href = "https://mapant.orienteering-allgaeu.de"
+[[params.additional_menus]]
 title = "ÜBER UNS"
 href = "/about/"

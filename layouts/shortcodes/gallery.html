@@ -14,12 +14,12 @@
         {{- $image := trim $image " " -}}
         <div class="col-md-4 col-sm-6 col-xs-12 gallery-item">
             <div class="gallery-image-wrapper">
-                <img src="{{ $path }}{{ $image }}" 
+                <img src="{{ printf "%s%s" $path $image | relURL }}" 
                      alt="Galerie Bild {{ add $index 1 }}"
                      class="gallery-image img-responsive"
                      data-toggle="modal" 
                      data-target="#imageModal-{{ $gallery }}"
-                     data-image-src="{{ $path }}{{ $image }}"
+                     data-image-src="{{ printf "%s%s" $path $image | relURL }}"
                      data-image-index="{{ $index }}">
             </div>
         </div>
@@ -148,7 +148,7 @@
     var images = [
         {{- range $index, $image := $imageList -}}
         {{- if $index -}},{{- end -}}
-        "{{ $path }}{{ trim $image " " }}"
+        "{{ printf "%s%s" $path (trim $image " ") | relURL }}"
         {{- end -}}
     ];
     var currentIndex = 0;

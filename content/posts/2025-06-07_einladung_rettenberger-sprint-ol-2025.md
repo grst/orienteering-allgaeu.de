@@ -40,7 +40,7 @@ Kommt vorbei -  wir freuen uns auf euch!
 
 Der folgender Kartenausschnitt zeigt das Ortsgebiet (links) und den Wald im Hasengarten (rechts): 
 
-![Kartenausschnitt](/img/posts/rettenberger-sprint-ol-1.png)
+![Kartenausschnitt]({{< relURL "/img/posts/rettenberger-sprint-ol-1.png" >}})
 
 ## Anmeldung
  * Whatsapp- oder Signal-Nachricht an +491719835284 oder 

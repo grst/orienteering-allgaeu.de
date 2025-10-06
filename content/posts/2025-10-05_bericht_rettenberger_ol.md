@@ -9,9 +9,9 @@ summary = 'Trotz trübem Herbstwetter kamen 75 Läuferinnen und Läufer zu unser
 
 # Rettenberger Sprint-OL: Ein erfolgreicher OL-Auftakt im Allgäu 
 
-Am vergangenen Sonntag haben wir in Rettenberg unseren verlängerten Sprint-OL ausgetragen – trotz des trüben Herbstwetters kamen 75 Läuferinnen und Läufer an den Start. Die Strecke führte durch das Ortsgebiet, die Brauhaussiedlung und das angrenzende Waldgebiet rund um den Galetschbach.
+Am vergangenen Sonntag haben wir in Rettenberg unseren verlängerten Sprint-OL ausgetragen. Trotz des trüben Herbstwetters kamen 75 Läuferinnen und Läufer an den Start. Die Strecke führte durch das Ortsgebiet, die Brauhaussiedlung und das angrenzende Waldgebiet rund um den Galetschbach.
 
-Besonders gefreut hat uns, dass viele Familien als Teams gestartet sind. Für uns ist es immer wieder schön zu sehen, wie Kinder, Eltern und Großeltern gemeinsam den Orientierungslauf erleben – und dabei sowohl Spaß haben als auch ihre Orientierungsfähigkeiten testen können. Natürlich gab es auch routinierte OL-Läufer, die ihre Geschwindigkeit und Routenwahl unter Beweis gestellt haben.
+Besonders gefreut hat uns, dass viele Familien als Teams gestartet sind. Natürlich waren auch ambitionierte OL-Läufer am Start, die zwar weniger durch das Laufgelände, aber durch interessante Routenwahlen herausgefordert waren. 
 
 ## Impressionen
 
@@ -19,8 +19,13 @@ Besonders gefreut hat uns, dass viele Familien als Teams gestartet sind. Für un
 
 ## Ergebnisse
 
-Sportlich spannend war es auf allen Strecken: Auf der langen Bahn setzte sich bei den Herren Florian Dambietz durch, gefolgt von Thomas Schöps (OLV Landshut) und Florian Felch. Bei den Damen siegte Kristine Fritz (OL-Team Filder) vor Teresa Burrell (OC München) und Johanna Dambietz. Auf der mittleren Strecke konnten Sabrina Schöps (OLV Landshut), Antonio von Hirschheydt (OLV Landshut) und Tina Holthoff (OLV Steinberg) die besten Zeiten erzielen.
+Sportlich spannend war es auf allen Bahnen: Auf der langen Bahn setzte sich bei den Herren Florian Dambietz durch, gefolgt von Thomas Schöps (OLV Landshut) und Florian Felch. Bei den Damen siegte Kristine Fritz (OL-Team Filder) vor Teresa Burrell (OC München) und Johanna Dambietz. Auf der mittleren Strecke konnten Sabrina Schöps (OLV Landshut), Maximilian von Hirschheydt (OLV Landshut) und Tina Holthoff (OLV Steinberg) die besten Zeiten erzielen.
+
+ * [Vollständige Ergebnisliste](/img/posts/2025-10-05_bericht_rettenberger_ol/Ergebnis_Rettenberg.pdf)
+ * [Zwischenzeiten](/img/posts/2025-10-05_bericht_rettenberger_ol/Zwischenzeiten_Rettenberg.pdf)
 
 ## Ausblick
 
-Wir haben uns über das durchweg positive Feedback der Teilnehmenden gefreut – viele lobten die abwechslungsreiche Strecke und die Kombination aus sportlicher Herausforderung und Naturerlebnis. Aufgrund des großen Interesses planen wir bereits, im nächsten Jahr mindestens eine ähnliche Veranstaltung anzubieten. Wir freuen uns darauf, noch mehr Menschen im Allgäu für den Orientierungslauf zu begeistern!
+Wir haben uns über das durchweg positive Feedback gefreut. Viele Teilnehmer waren zum ersten Mal bei einem Orientierungslauf und hatten viel Spaß bei der Postensuche. Im Wettkampfzentrum konnten wir außerdem mit Personen 
+umliegender Vereine und OL-Initiativen in Kontakt kommen und Anknüpfungspunkte für weitere Karten und Veranstaltungen finden. 
+In jedem Fall planen wir im nächsten Jahr mindestens eine ähnliche Veranstaltung anzubieten. 

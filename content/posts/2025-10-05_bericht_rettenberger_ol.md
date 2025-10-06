@@ -21,8 +21,8 @@ Besonders gefreut hat uns, dass viele Familien als Teams gestartet sind. Natürl
 
 Sportlich spannend war es auf allen Bahnen: Auf der langen Bahn setzte sich bei den Herren Florian Dambietz durch, gefolgt von Thomas Schöps (OLV Landshut) und Florian Felch. Bei den Damen siegte Kristine Fritz (OL-Team Filder) vor Teresa Burrell (OC München) und Johanna Dambietz. Auf der mittleren Strecke konnten Sabrina Schöps (OLV Landshut), Maximilian von Hirschheydt (OLV Landshut) und Tina Holthoff (OLV Steinberg) die besten Zeiten erzielen.
 
- * [Vollständige Ergebnisliste]({{< relURL "/img/posts/2025-10-05_bericht_rettenberger_ol/Ergebnis_Rettenberg.pdf" >}})
- * [Zwischenzeiten]({{< relURL "/img/posts/2025-10-05_bericht_rettenberger_ol/Zwischenzeiten_Rettenberg.pdf" >}})
+ * [Vollständige Ergebnisliste](/img/posts/2025-10-05_bericht_rettenberger_ol/Ergebnis_Rettenberg.pdf)
+ * [Zwischenzeiten](/img/posts/2025-10-05_bericht_rettenberger_ol/Zwischenzeiten_Rettenberg.pdf)
 
 ## Ausblick
 

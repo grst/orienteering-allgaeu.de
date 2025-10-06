@@ -1,7 +1,7 @@
 +++
 date = '2025-10-05T20:00:00+02:00'
 draft = false
-title = 'Rettenberger Sprint-OL: Ein voller Erfolg für Einsteiger, Familien und Routiniers'
+title = 'Rettenberger Sprint-OL: Ein erfolgreicher OL-Auftakt im Allgäu'
 tags = ["orientierungslauf", "sprint"]
 categories = ["news"]
 summary = 'Trotz trübem Herbstwetter kamen 75 Läuferinnen und Läufer zu unserem Sprint-OL nach Rettenberg. Besonders gefreut haben wir uns über die vielen Familien, die als Teams gestartet sind.'

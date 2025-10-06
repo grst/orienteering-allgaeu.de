@@ -9,4 +9,4 @@ layout: "events"
 
 | Datum | Veranstaltung | Details |
 |:--|:--|:--|
-| 2025-10-05 | Rettenberger Sprint-OL | [Einladung](/posts/rettenberger-sprint-ol-2025/) |
+| 2025-10-05 | Rettenberger Sprint-OL | [Einladung](/posts/rettenberger-sprint-ol-2025/) \| [Bericht](/posts/2025-10-05_bericht_rettenberger_ol/) \| [Ergebnisse](/img/posts/2025-10-05_bericht_rettenberger_ol/Ergebnis_Rettenberg.pdf) \| [Zwischenzeiten](/img/posts/2025-10-05_bericht_rettenberger_ol/Zwischenzeiten_Rettenberg.pdf) |

@@ -37,8 +37,13 @@ jobs:
         with:
           node-version: '18'
   
-      - name: Build with Hugo
+      - name: Build with Hugo (production)
+        if: github.event_name != 'pull_request'
         run: hugo --minify
+
+      - name: Build with Hugo (PR preview)
+        if: github.event_name == 'pull_request'
+        run: hugo --minify --baseURL "https://orienteering-allgaeu.de/pr-preview/pr-${{ github.event.number }}/"
 
       - name: Deploy preview
         if: github.event_name == 'pull_request'

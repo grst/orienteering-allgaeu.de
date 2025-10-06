@@ -1,13 +1,13 @@
 +++
 date = '2025-06-07T21:18:19+02:00'
 draft = false
-title = 'Rettenberger Sprint OL 2025'
+title = 'Einladung Rettenberger Sprint OL 2025'
 tags = ["orientierungslauf", "sprint"]
 categories = ["news"]
 summary = 'Wir organisieren am 5. Oktober 2025 einen Orientierungslauf für Kinder, Familien und Einsteiger in Rettenberg (Ortsgebiet + Waldwege). Drei Strecken zur Auswahl, keine Vorkenntnisse erforderlich.'
 +++
 
-# Rettenberger Sprint OL 
+# Einladung Rettenberger Sprint OL 
 *Orientierunglauf für Kinder, Familien und Einsteiger*
 
 Lust auf ein kleines Abenteuer in und um Rettenberg?

@@ -1,11 +1,22 @@
 ---
-title: "Termine 2025"
-date: 2025-06-07
+title: "Termine"
+date: 2026-02-14
 draft: false
 layout: "events"
 ---
 
-# Veranstaltungskalender 2025
+# Veranstaltungskalender 2026
+
+| Datum | Veranstaltung | Details |
+|:--|:--|:--|
+| So, 26. April 2026 | Schnupper-OL im Rahmen des Tages der offenen Tür der Immenstädter Vereine. Details folgen. |
+| Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+| Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+| Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+| Mo, 7. September 2026  17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+| Mo, 5. Oktober 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+
+# Vergangene Veranstaltungen
 
 | Datum | Veranstaltung | Details |
 |:--|:--|:--|

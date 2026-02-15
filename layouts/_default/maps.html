@@ -14,12 +14,14 @@
                 </div>
 
                 <!-- Maps Grid from front matter -->
-                <div class="row">
+                <div class="row maps-grid">
                     {{ range .Params.maps }}
-                    <div class="col-md-6 mb-4">
-                        <div class="card h-100" style="box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #e9ecef; transition: box-shadow 0.2s ease-in-out;">
-                            <img src="{{ .image }}" class="card-img-top" alt="{{ .title }}" style="height: 250px; object-fit: cover;">
-                            <div class="card-body" style="background-color: #fafbfc; padding: 1.5rem;">
+                    <div class="col-sm-6 map-card-col">
+                        <div class="map-card">
+                            <div class="map-image-wrapper">
+                                <img src="{{ .image }}" alt="{{ .title }}">
+                            </div>
+                            <div class="map-card-body">
                                 <h5 class="card-title" style="margin-bottom: 1rem;">{{ .title }}</h5>
                                 <p class="card-text" style="margin-bottom: 1rem;">{{ .description }}</p>
                                 
@@ -54,9 +56,44 @@
 </article>
 
 <style>
-.card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;
+.map-card-col {
+    margin-bottom: 30px;
+}
+.map-card {
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border: 1px solid #e9ecef;
+    transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+.map-card:hover {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     transform: translateY(-2px);
+}
+.map-image-wrapper {
+    width: 100%;
+    padding-top: 66%;
+    position: relative;
+    overflow: hidden;
+}
+.map-image-wrapper img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0;
+}
+.map-card-body {
+    background-color: #fafbfc;
+    padding: 1.5rem;
+}
+@media (min-width: 480px) {
+    .map-card-col {
+        width: 50%;
+        float: left;
+    }
 }
 </style>
 {{ end }}

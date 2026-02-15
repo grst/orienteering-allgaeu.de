@@ -25,7 +25,7 @@ um den Immenstädter Marienplatz an.
 
 Ab Mai 2026 findet an jedem ersten Montag im Monat um 17:00 Uhr unser Orientierungslauftraining statt. 
 Treffpunkt ist i.d.R. an der Grundschule in Stein. Gelaufen wird auf einer neu aufgenommenen Karte von Stein, 
-zum Großteil im Ortsgebiet, und teilweise kleineren Waldstücken. 
+zum Großteil im Ortsgebiet und teilweise kleineren Waldstücken. 
 
 Die Trainings richten sich an alle Interessierten - egal ob Anfänger oder erfahrene Orientierungsläufer, Kinder, Jugendliche oder Erwachsene. 
 In lockerer Atmosphäre wollen wir gemeinsam den Umgang mit Karte und Kompass üben und die Freude am Orientierungslauf teilen.

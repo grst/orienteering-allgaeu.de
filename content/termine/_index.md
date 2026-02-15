@@ -9,12 +9,12 @@ layout: "events"
 
 | Datum | Veranstaltung | Details |
 |:--|:--|:--|
-| So, 26. April 2026 | Schnupper-OL im Rahmen des Tages der offenen Tür der Immenstädter Vereine. Details folgen. |
-| Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
-| Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
-| Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
-| Mo, 7. September 2026  17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
-| Mo, 5. Oktober 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundchule |
+| So, 26. April 2026 | Schnupper-OL im Rahmen des Tages der offenen Tür der Immenstädter Vereine.  | Details folgen. |
+| Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
+| Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
+| Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
+| Mo, 7. September 2026  17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
+| Mo, 5. Oktober 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
 
 # Vergangene Veranstaltungen
 

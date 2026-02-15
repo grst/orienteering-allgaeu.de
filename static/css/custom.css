@@ -68,63 +68,22 @@
 }
 
 /* Fix table responsiveness for mobile devices */
+.post-container .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 @media only screen and (max-width: 767px) {
-    /* Make tables responsive by allowing horizontal scroll */
-    .post-container table:not(.termine-table) { /* Apply general horizontal scroll to non-termine tables */
-        display: block !important;
+    .post-container table {
         width: 100% !important;
-        overflow-x: auto !important;
-        white-space: nowrap !important;
-        -webkit-overflow-scrolling: touch !important;
-    }
-    
-    .post-container table:not(.termine-table) th,
-    .post-container table:not(.termine-table) td {
-        white-space: nowrap !important;
-        padding: 8px 12px !important;
         font-size: 14px !important;
     }
-    
-    /* Stack table content vertically for termine-table on very small screens */
-    /* Add a class "termine-table" to the table in your markdown/html if it's not already there */
-    .post-container table.termine-table,
-    .post-container table.termine-table thead,
-    .post-container table.termine-table tbody,
-    .post-container table.termine-table th,
-    .post-container table.termine-table td,
-    .post-container table.termine-table tr {
-        display: block !important;
-    }
-    
-    .post-container table.termine-table thead tr {
-        position: absolute !important;
-        top: -9999px !important;
-        left: -9999px !important;
-    }
-    
-    .post-container table.termine-table tr {
-        border: 1px solid #ccc !important;
-        margin-bottom: 10px !important;
-        padding: 10px !important;
-    }
-    
-    .post-container table.termine-table td {
-        border: none !important;
-        position: relative !important;
-        padding-left: 40% !important; /* Adjust padding to make space for label */
-        white-space: normal !important; /* Allow text to wrap */
-        min-height: 22px; /* Ensure a minimum height for cells */
-    }
-    
-    .post-container table.termine-table td:before {
-        /* Use data-label attribute for cell labels */
-        content: attr(data-label) !important; 
-        position: absolute !important;
-        left: 6px !important;
-        width: 35% !important; /* Adjust width of the label */
-        padding-right: 10px !important;
-        white-space: nowrap !important;
-        font-weight: bold !important;
+
+    .post-container table th,
+    .post-container table td {
+        padding: 6px 8px !important;
+        white-space: normal !important;
+        word-break: break-word !important;
     }
 }
 

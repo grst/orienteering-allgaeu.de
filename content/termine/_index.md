@@ -9,7 +9,7 @@ layout: "events"
 
 | Datum | Veranstaltung | Details |
 |:--|:--|:--|
-| So, 26. April 2026 | Schnupper-OL im Rahmen des Tages der offenen Tür der Immenstädter Vereine.  | Details folgen. |
+| So, 26. April 2026, 12:30-16:30 Uhr | Schnupper-OL im Rahmen des verkaufoffenen Sonntags in Immenstadt  | Treffpunkt [Parkplatz bei Alpsee Bikes](https://maps.app.goo.gl/4V1nfkMvu2kqyLHR8) (ehem. Baby Bolz)  |
 | Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
 | Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |
 | Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt Stein, Grundschule |

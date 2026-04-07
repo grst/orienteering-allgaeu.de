@@ -7,6 +7,8 @@ categories = ["news"]
 summary = 'Im Rahmen des verkaufsoffenen Sonntags in Immenstadt bieten wir einen Schupper OL für alle Interessierten an. '
 +++
 
+# Orientierungslauf ausprobieren beim verkaufsoffenen Sonntag in Immenstadt
+
 Neben offenen Geschäften gibt es beim verkaufsoffenen Sonntag in Immenstadt eine Menge toller Aktionen, die 
 von den Immenstädter Verinen organisiert werden. Wir sind mit Orientierungslauf vor Ort! 
 

@@ -10,11 +10,11 @@ layout: "events"
 | Datum | Veranstaltung | Details |
 |:--|:--|:--|
 | So, 26. April 2026, 12:30-16:30 Uhr | Schnupper-OL im Rahmen des verkaufoffenen Sonntags in Immenstadt  | Treffpunkt [Parkplatz bei Alpsee Bikes](https://maps.app.goo.gl/4V1nfkMvu2kqyLHR8) (ehem. Baby Bolz)  |
-| Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/Fvw2L76dYeFWywYW8) |
-| Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/Fvw2L76dYeFWywYW8) |
-| Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/Fvw2L76dYeFWywYW8) |
-| Mo, 7. September 2026  17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/Fvw2L76dYeFWywYW8) |
-| Mo, 5. Oktober 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/Fvw2L76dYeFWywYW8) |
+| Mo, 4. Mai 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) |
+| Mo, 1. Juni 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) |
+| Mo, 6. Juli 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) |
+| Mo, 7. September 2026  17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) |
+| Mo, 5. Oktober 2026 17:00 Uhr | OL Training | Treffpunkt [Stein, Grundschule](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) |
 
 # Vergangene Veranstaltungen
 

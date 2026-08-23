@@ -15,5 +15,6 @@ Es gibt Lauf- und Kartentraining sowohl für Kinder als auch für Erwachsene. Ge
 in angrenzenden Waldstücken.  
 
 Treffpunkt ist bei der [Grundschule in Stein](https://maps.app.goo.gl/PYzWn2jVrvo3Japv7) (Pausenhof).
+**Am 5. Oktober 2026** ist der Treffpunkt bei der [Grundschule in **Rettenberg**](https://maps.app.goo.gl/En8ChrR7entwNSA49).
 
 ![Flyer Training](/img/posts/2026-04-15_ol-training/ol-training.webp)

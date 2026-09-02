@@ -208,7 +208,7 @@
             {{ end }}
              </ul>
 		<p class="copyright text-muted">
-                    Copyright &copy; {{ .Site.Title }} {{ now.Year }} | <a href="/impressum/">Impressum</a>
+                    Copyright &copy; {{ .Site.Title }} {{ now.Year }} | <a href="/impressum/">Impressum</a> | <a href="/datenschutz/">Datenschutz</a>
                     {{- if .Site.Params.icp }} | {{ with .Site.Params.icp }}{{ . | markdownify }}{{ end }}{{- end}}
                     {{ if .Site.Params.upstreamAttribution }}
                     <br>
@@ -270,14 +270,6 @@
             $('#tag_cloud a').tagcloud();
         })
     }
-</script>
-
-<!--fastClick.js -->
-<script>
-    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
-        var $nav = document.querySelector("nav");
-        if($nav) FastClick.attach($nav);
-    })
 </script>
 
 <!-- push page to Baidu -->

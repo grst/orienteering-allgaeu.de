@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-date: 2026-09-02
+date: 2026-10-09
 draft: false
 ---
 
@@ -55,12 +55,15 @@ EU-U.S. Data Privacy Framework, an dem der Anbieter teilnimmt. Näheres in der
 Datenschutzerklärung von GitHub:
 [https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 
-## 4. Kartenanwendung „Mapant Bayern"
+## 4. Kartenanwendung „Mapant Germany"
 
 Unter `mapant.orienteering-allgaeu.de` stellen wir eine interaktive Karte bereit.
 Beim Betrachten der Karte lädt Ihr Browser Kartenkacheln nach. Dabei wird Ihre
 IP-Adresse an den jeweiligen Server übermittelt – ohne sie könnte dieser die
-Kacheln nicht an Sie zurücksenden.
+Kacheln nicht an Sie zurücksenden. Schriftarten, Ortsnamen und Landesgrenzen
+werden von unseren eigenen Servern ausgeliefert. Der Export als PDF oder
+OCAD-Datei erfolgt vollständig lokal in Ihrem Browser; dabei werden keine Daten an
+uns übermittelt.
 
 **Rechtsgrundlage** für die nachstehenden Verarbeitungen ist jeweils Art. 6 Abs. 1
 lit. f DSGVO (berechtigtes Interesse an der Bereitstellung der Karte).
@@ -74,13 +77,17 @@ der EU-Kommission zum EU-U.S. Data Privacy Framework, an dem Cloudflare teilnimm
 Datenschutzerklärung:
 [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
 
-**Kartenkacheln Dritter** können als Hintergrund- und Zusatzebenen geladen werden.
+**Kartenkacheln Dritter** werden als Hintergrund- und Zusatzebenen geladen.
 Auf deren weitere Verarbeitung haben wir keinen Einfluss:
 
-- `tile.openstreetmap.org` – Kartendarstellung der OpenStreetMap Foundation
-  (Vereinigtes Königreich; es liegt ein Angemessenheitsbeschluss der EU-Kommission
-  vor).
-  [Datenschutzerklärung](https://osmfoundation.org/wiki/Privacy_Policy)
+- `tiles.openfreemap.org` – Hintergrundkarte (Kartenkacheln, Kartensymbole) des
+  Dienstes OpenFreeMap, betrieben von der Hyperknot Software Kft., Ungarn. Die
+  Hintergrundkarte wird nur außerhalb der Gebiete geladen, für die eine
+  Orientierungslaufkarte vorliegt, sowie in kleinen Zoomstufen. Nach eigenen
+  Angaben speichert OpenFreeMap IP-Adressen nur in Fehlerprotokollen (Löschung
+  nach 7 Tagen) und bei Sicherheitsvorfällen (Löschung nach höchstens 30 Tagen);
+  die Auslieferung kann über das Netzwerk von Cloudflare erfolgen (siehe oben).
+  [Datenschutzerklärung](https://openfreemap.org/privacy/)
 - `tiles.mapterhorn.com` – Geländeschummerung (Hillshade) des Projekts Mapterhorn.
   [Weitere Informationen](https://mapterhorn.com/attribution)
 
